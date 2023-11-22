@@ -6,7 +6,7 @@ Here, we implement the algorithm itself, try to find the best number of clusters
 Here are some of the results by changing the parameter for the association of points to each cluster.
 
 
-<img width="452" alt="image" src="https://github.com/kasramojallal1/project-fuzzy-clustering/assets/53012886/f9f56067-b62a-4114-82c4-49a07e4ba2c0">
+<img width="666" alt="image" src="https://github.com/kasramojallal1/project-fuzzy-clustering/assets/53012886/5014e43f-909f-4d3a-b1e2-54425219e682">
 
 <img width="666" alt="image" src="https://github.com/kasramojallal1/project-fuzzy-clustering/assets/53012886/40c56b9d-8d57-4802-96f5-f8ac55091c03">
 
